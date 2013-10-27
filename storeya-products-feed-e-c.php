@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Storeya Products Feed for WP e-Commerce
-Plugin URI: 
-Description: 
+Plugin URI: http://wordpress.org/plugins/wpec-facebook-shop/
+Description: StoreYa's plugin automatically imports your WP-Commerce web stores onto your Facebook fan page having it fully customized to fit both the Facebook arena and the original brand's look & feel.
 Version: 1.0
 Author: StoreYa
 Author URI: http://www.storeya.com/
@@ -99,26 +99,38 @@ function spf_plugin_actions($links, $file)
                 <?php
             settings_fields('storeya-products-feed-e-c-group');
 ?>
-                <p><label for="spfID"><?php
-            printf(__('
-Enter Coupon Pop script you got from %1$sIncrease your online sales today with StoreYa!%2$sStoreYa%3$s.', $spf_domain), '<strong><a href="http://www.storeya.com/" title="', '">', '</a></strong>');
-?></label></p>
-
-                  <p><input type="checkbox" name="spfID" <?php  
-				  
-				  if (get_option('spfID')) {		 
+                <p><label for="spfID"><strong>Congratulations!</strong></label></p>
+                <p>You have successfully generated a Products Feed for your store!</p>
+                <ol>
+                 <li>Please go to <a href="http://www.storeya.com/" target=_blank >www.StoreYa.com</a>.</li>
+                  <li>If you are not logged in, please click on the "Get started now - Connect with Facebook" button, and choose WP as your store's solution.</li>
+                   <li>Type in your Store's URL and click on the "Continue" button and then on the "Activate" button.</li>
+                    <li>Connect your store to your Facebook fan page.</li>
+                     <li>Once you are happy with your Facebook store's customization, have it published!</li>
+                </ol>
+<strong>Settings</strong>
+<br/>
+                  <p><input type="checkbox" name="spfID" <?php 
+		  if (get_option('spfID')) {		 
 				 echo 'checked="checked"'; 	 
-			}	
-?> value = "true"> Disable feed</p><?php echo get_option('spfID');?>
+			} 				  
+	
+?> value = "true"> Disable feed</p>
                     <p class="submit">
                       <input type="submit" class="button-primary" value="<?php
             _e('Save Changes');
 ?>" /> </p>
                   </form>
 </p>
-                  <p style="font-size:smaller;color:#999239;background-color:#ffffe0;padding:0.4em 0.6em !important;border:1px solid #e6db55;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;border-radius:3px"><?php
-            printf(__('Don&rsquo;t have a Coupon Pop? No problem! %1$sKeep your visitors engaged with you in all social networks you are active on!%2$sCreate a <strong>FREE</strong> Storeya Products Feed for WP e-ComerceNow!%3$s', $spf_domain), '<a href="http://www.storeya.com/public/couponpop" title="', '">', '</a>');
-?></p>
+                  <p style="font-size:smaller;color:#999239;background-color:#ffffe0;padding:0.4em 0.6em !important;border:1px solid #e6db55;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;border-radius:3px">
+                  
+                  Sell more products with a store tab on your Facebook page!
+                  <br/>
+                  <?php
+            printf(__('%1$sKeep your visitors engaged with you in all social networks you are active on!%2$sImport Your Store to Facebook! %3$s', $spf_domain), '<a href="http://www.storeya.com/" target=_blank title="', '">', '</a>');
+?>
+
+</p>
                   </div>
                 </div>
 

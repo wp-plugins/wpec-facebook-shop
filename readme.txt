@@ -1,11 +1,11 @@
-=== WP-ECommerce shop to Facebook ===
+=== WP-eCommerce shop to Facebook ===
 
 Contributors: StoreYa
 
-Tags: WP-Commerce, wpcommerce, commerce, wpec, Facebook shop, ecommerce, Facebook store
+Tags: WP-Commerce, WP-eCommerce, wpcommerce, commerce, wpec, Facebook shop, ecommerce, Facebook store
 Requires at least: 3.3
 Tested up to: 3.6.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
