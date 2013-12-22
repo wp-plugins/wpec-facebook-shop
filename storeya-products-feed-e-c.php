@@ -250,7 +250,7 @@ function s_wpsc_generate_product_feed() {
 				if ( $xmlformat == 'google' ) {
 					echo "      <g:image_link><![CDATA[$image_link]]></g:image_link>\n\r";
 				} else {
-					echo "      <title><![CDATA[". esc_url( $image_link ) ."]]></title>\n\r";   
+					echo "      <g:image_link><![CDATA[". esc_url( $image_link ) ."]]></g:image_link>\n\r";   
 				}
 
 			}
