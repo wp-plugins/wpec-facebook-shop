@@ -347,8 +347,8 @@ function s_wpsc_generate_product_feed() {
 				}
 
 			} else {
-
-				echo "      <product:price>".$price."</product:price>\n\r";
+				
+				echo "      <g:price>".$price."</g:price>\n\r";
 
 			}
 
