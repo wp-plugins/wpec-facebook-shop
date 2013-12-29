@@ -41,7 +41,7 @@ function spf_settings()
     add_settings_section('storeya-products-feed-e-c', "Storeya Products Feed for WP e-Comerce", "", 'storeya-products-feed-e-c-group');
 
 }
-function plugin_get_version()
+function plugin_get_version_e_c()
 {
     if (!function_exists('get_plugins'))
         require_once(ABSPATH . 'wp-admin/includes/plugin.php');
@@ -80,7 +80,7 @@ function spf_plugin_actions($links, $file)
         <h2><?php
             _e('Storeya Products Feed for WP e-Comerce ', $spf_domain);
 ?> <small><?
-            echo plugin_get_version();
+            echo plugin_get_version_e_c();
 ?></small></h2>
         <div class="metabox-holder meta-box-sortables ui-sortable pointer">
           <div class="postbox" style="float:left;width:30em;margin-right:20px">
