@@ -4,7 +4,7 @@ Contributors: StoreYa
 
 Tags: WP-Commerce, WP-eCommerce, wpcommerce, commerce, wpec, Facebook shop, ecommerce, Facebook store, Facebook, ecommerce, Facebook store, Facebook shop, Viral marketing, Rewards, Facebook marketing, Social Marketing, Online Sales, Marketing tools, Social commerce, storeya, Create a coupon, Create a discount, Promotional tool, engagement, Online  marketing, Email Marketing, Twitter, G+, google, google plus, Instagram, Pinterest, LinkedIn, facebook likes, fans, Incentive app, Social campaigns, ads, seo, ppc, wordpress, share, blog, plugin, sharing, network, tumblr
 Requires at least: 3.3
-Tested up to: 3.8
+Tested up to: 4.0
 Stable tag: 1.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
