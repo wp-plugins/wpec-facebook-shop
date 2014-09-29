@@ -5,7 +5,7 @@ Contributors: StoreYa
 Tags: WP-Commerce, WP-eCommerce, wpcommerce, commerce, wpec, Facebook shop, ecommerce, Facebook store, Facebook, ecommerce, Facebook store, Facebook shop, Viral marketing, Rewards, Facebook marketing, Social Marketing, Online Sales, Marketing tools, Social commerce, storeya, Create a coupon, Create a discount, Promotional tool, engagement, Online  marketing, Email Marketing, Twitter, G+, google, google plus, Instagram, Pinterest, LinkedIn, facebook likes, fans, Incentive app, Social campaigns, ads, seo, ppc, wordpress, share, blog, plugin, sharing, network, tumblr
 Requires at least: 3.3
 Tested up to: 4.0
-Stable tag: 1.5
+Stable tag: 1.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,9 +25,7 @@ AND - to top all that StoreYa will provide you with the following social marketi
 
 - **Scratch & Win** - an innovative marketing tool enabling you to get straight to your fans' newsfeed where they 'hang out' in a fun and incentivizing way. This tool allows your fans to win coupons by playing a game of scratch cards. 
 
-- **InstaGallery** - enables you to have your customers tagging your store in their Instagram photos, making them feel a part of the store community while spreading your word to their friends. You can then link each photo to its relevant product, share it, and have it redirecting to your product pages. (See Airwalk's example, [click on the Tagged us button](http://www.facebook.com/airwalk/app_149696141763776)).
-
-- [**Coupon Pop**](http://www.storeya.com/public/couponpop) - Boost your website conversion rate and increase your fan base and email lists by popping up special offers to your visitors.
+- **InstaGallery** - enables you to have your customers tagging your store in their Instagram photos, making them feel a part of the store community while spreading your word to their friends. You can then link each photo to its relevant product, share it, and have it redirecting to your product pages.
 
 - **Like Box** - Adding a Like Box to your online shop will help you increasing your Facebook fan base.
 
@@ -41,6 +39,7 @@ AND - to top all that StoreYa will provide you with the following social marketi
 
 - [**Instagram Tab**](http://blog.storeya.com/2013/08/integrate-instagram-profile-facebook-fan-page/) - Display an Instagram tab on your Facebook page, and add a great added value to your fans.
 
+- Import your Woocommerce store to Facebook, you'll be amazed by its results!
 
 == Installation ==
 
