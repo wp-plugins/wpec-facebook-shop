@@ -131,14 +131,3 @@ To cancel your account with us, follow these easy steps:
 [WPEC to Facebook](http://www.storeya.com/partners/WP_e_Commerce)
 
 [Facebook shop videos](https://vimeo.com/storeya)
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
