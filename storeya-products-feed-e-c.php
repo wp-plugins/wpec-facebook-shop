@@ -11,7 +11,7 @@ Author URI: http://www.storeya.com/
 01.10.13 - v1.0 - The first version
 
 === LEGAL INFORMATION ===
-Copyright © 2012 StoreYa Feed LTD - http://www.storeya.com/
+Copyright ï¿½ 2012 StoreYa Feed LTD - http://www.storeya.com/
 
 License: GPLv2 
 along with this program. If not, see <http://www.gnu.org/licenses/>.
@@ -19,7 +19,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 $plugurldir = get_option('siteurl') . '/' . PLUGINDIR . '/storeya-products-feed-e-c/';
 $spf_domain = 'StoreyaProductsFeed';
-load_plugin_textdomain($spf_domain, 'wp-content/plugins/storeya-products-feed-e-c');
+load_plugin_textdomain($spf_domain, false, plugin_basename(dirname(__FILE__)));
 add_action('init', 'spf_init');
 //add_action('wp_footer', 'spf_insert');
 add_action('init', 's_wpsc_feed_publisher');
