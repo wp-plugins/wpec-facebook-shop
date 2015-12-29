@@ -11,7 +11,7 @@ Author URI: http://www.storeya.com/
 01.10.13 - v1.0 - The first version
 
 === LEGAL INFORMATION ===
-Copyright � 2012 StoreYa Feed LTD - http://www.storeya.com/
+Copyright 2012 StoreYa Feed LTD - http://www.storeya.com/
 
 License: GPLv2 
 along with this program. If not, see <http://www.gnu.org/licenses/>.
