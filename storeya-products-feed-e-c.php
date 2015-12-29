@@ -69,6 +69,8 @@ function spf_plugin_actions($links, $file)
 
     function spf_add_settings_page()
     {
+	    global $spf_domain;
+
         function spf_settings_page()
         {
             global $spf_domain, $plugurldir, $storeya_options;
